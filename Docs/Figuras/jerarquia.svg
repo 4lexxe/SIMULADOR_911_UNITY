@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="507.27559055118115" height="163" preserveAspectRatio="xMinYMin meet" viewBox="0 0 507 163" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="507.27559055118115" height="163"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-163)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="0" width="507.27559055118115" height="163" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(93%,96%,97%); fill-rule: evenodd;"/>
+			<text x="15" y="143" style="font-family: Body-Bold; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,286) scale(1,-1)">UltimaLlamada / escena guardada</text>
+			<path d="M 21,128 L 21,15 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<path d="M 21,125 L 34,125 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="42" y="122" style="font-family: Body-Bold; font-size: 9.6px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,244) scale(1,-1)">Environment</text>
+			<text x="192" y="122" style="font-family: Body; font-size: 9.6px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,244) scale(1,-1)">puesto y tres monitores</text>
+			<path d="M 21,107 L 34,107 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="42" y="104" style="font-family: Body-Bold; font-size: 9.6px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,208) scale(1,-1)">Operator</text>
+			<text x="192" y="104" style="font-family: Body; font-size: 9.6px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,208) scale(1,-1)">cámara, vistas y voz</text>
+			<path d="M 21,89 L 34,89 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="42" y="86" style="font-family: Body-Bold; font-size: 9.6px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,172) scale(1,-1)">EmergencySystem</text>
+			<text x="192" y="86" style="font-family: Body; font-size: 9.6px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,172) scale(1,-1)">mapa de incidentes</text>
+			<path d="M 21,71 L 34,71 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="42" y="68" style="font-family: Body-Bold; font-size: 9.6px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,136) scale(1,-1)">Units</text>
+			<text x="192" y="68" style="font-family: Body; font-size: 9.6px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,136) scale(1,-1)">cinco recursos editables</text>
+			<path d="M 21,53 L 34,53 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="42" y="50" style="font-family: Body-Bold; font-size: 9.6px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,100) scale(1,-1)">UI</text>
+			<text x="192" y="50" style="font-family: Body; font-size: 9.6px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,100) scale(1,-1)">lobby, mapa, HUD y auditoría</text>
+			<path d="M 21,35 L 34,35 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="42" y="32" style="font-family: Body-Bold; font-size: 9.6px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,64) scale(1,-1)">Audio</text>
+			<text x="192" y="32" style="font-family: Body; font-size: 9.6px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,64) scale(1,-1)">efectos sonoros</text>
+			<path d="M 21,17 L 34,17 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1;"/>
+			<text x="42" y="14" style="font-family: Body-Bold; font-size: 9.6px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,28) scale(1,-1)">Systems</text>
+			<text x="192" y="14" style="font-family: Body; font-size: 9.6px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,28) scale(1,-1)">GameManager y relay</text>
+		</g>
+	</g>
+</svg>

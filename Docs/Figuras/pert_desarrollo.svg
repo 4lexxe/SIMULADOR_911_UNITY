@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="507.27559055118115" height="148" preserveAspectRatio="xMinYMin meet" viewBox="0 0 507 148" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="507.27559055118115" height="148"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-148)" style="clip-path: url(#clip)">
+		<g transform="">
+			<path d="M 72,74 L 87.055118,122 Z" style="stroke: rgb(0%,48%,60%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<polygon points="87.05512 122, 88.12198 115.3772, 82.39698 117.1728" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,48%,60%); fill-rule: evenodd;"/>
+			<path d="M 72,74 L 87.055118,26 Z" style="stroke: rgb(39%,49%,55%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="87.05512 26, 82.39698 30.82719, 88.12198 32.62282" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(39%,49%,55%); fill-rule: evenodd;"/>
+			<path d="M 159.055118,122 L 174.110236,122 Z" style="stroke: rgb(0%,48%,60%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<polygon points="174.1102 122, 168.1102 119, 168.1102 125" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,48%,60%); fill-rule: evenodd;"/>
+			<path d="M 159.055118,26 L 174.110236,26 Z" style="stroke: rgb(39%,49%,55%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="174.1102 26, 168.1102 23, 168.1102 29" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(39%,49%,55%); fill-rule: evenodd;"/>
+			<path d="M 246.110236,122 L 261.165354,74 Z" style="stroke: rgb(0%,48%,60%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<polygon points="261.1654 74, 256.5072 78.82719, 262.2322 80.62282" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,48%,60%); fill-rule: evenodd;"/>
+			<path d="M 246.110236,26 L 261.165354,74 Z" style="stroke: rgb(39%,49%,55%); stroke-linecap: butt; stroke-width: 1;"/>
+			<polygon points="261.1654 74, 262.2322 67.37718, 256.5072 69.17281" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(39%,49%,55%); fill-rule: evenodd;"/>
+			<path d="M 333.165354,74 L 348.220472,74 Z" style="stroke: rgb(0%,48%,60%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<polygon points="348.2205 74, 342.2205 71, 342.2205 77" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,48%,60%); fill-rule: evenodd;"/>
+			<path d="M 420.220472,74 L 435.275591,74 Z" style="stroke: rgb(0%,48%,60%); stroke-linecap: butt; stroke-width: 1.8;"/>
+			<polygon points="435.2756 74, 429.2756 71, 429.2756 77" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,48%,60%); fill-rule: evenodd;"/>
+			<rect x="0" y="54" width="72" height="40" style="stroke: rgb(0%,48%,60%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(0%,48%,60%); fill-rule: evenodd;"/>
+			<text x="18.21923828125" y="79" style="font-family: Body-Bold; font-size: 10px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,158) scale(1,-1)">A  /  2 h</text>
+			<text x="23.951416015625" y="64" style="font-family: Body; font-size: 8.5px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,128) scale(1,-1)">0 - 2 h</text>
+			<rect x="87.05511811023624" y="102" width="72.0" height="40" style="stroke: rgb(0%,48%,60%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(0%,48%,60%); fill-rule: evenodd;"/>
+			<text x="105.27435639148624" y="127" style="font-family: Body-Bold; font-size: 10px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,254) scale(1,-1)">B  /  3 h</text>
+			<text x="111.00653412586124" y="112" style="font-family: Body; font-size: 8.5px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,224) scale(1,-1)">2 - 5 h</text>
+			<rect x="87.05511811023624" y="6" width="72.0" height="40" style="stroke: rgb(39%,49%,55%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(90%,93%,95%); fill-rule: evenodd;"/>
+			<text x="105.27435639148624" y="31" style="font-family: Body-Bold; font-size: 10px;fill: rgb(2%,10%,18%); stroke:none;" transform="translate(0,62) scale(1,-1)">C  /  4 h</text>
+			<text x="111.00653412586124" y="16" style="font-family: Body; font-size: 8.5px;fill: rgb(2%,10%,18%); stroke:none;" transform="translate(0,32) scale(1,-1)">2 - 6 h</text>
+			<rect x="174.11023622047247" y="102" width="72.0" height="40" style="stroke: rgb(0%,48%,60%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(0%,48%,60%); fill-rule: evenodd;"/>
+			<text x="192.32947450172247" y="127" style="font-family: Body-Bold; font-size: 10px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,254) scale(1,-1)">D  /  5 h</text>
+			<text x="195.69800477515997" y="112" style="font-family: Body; font-size: 8.5px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,224) scale(1,-1)">5 - 10 h</text>
+			<rect x="174.11023622047247" y="6" width="72.0" height="40" style="stroke: rgb(39%,49%,55%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(90%,93%,95%); fill-rule: evenodd;"/>
+			<text x="192.60535340797247" y="31" style="font-family: Body-Bold; font-size: 10px;fill: rgb(2%,10%,18%); stroke:none;" transform="translate(0,62) scale(1,-1)">E  /  3 h</text>
+			<text x="198.06165223609747" y="16" style="font-family: Body; font-size: 8.5px;fill: rgb(2%,10%,18%); stroke:none;" transform="translate(0,32) scale(1,-1)">6 - 9 h</text>
+			<rect x="261.16535433070874" y="54" width="72.0" height="40" style="stroke: rgb(0%,48%,60%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(0%,48%,60%); fill-rule: evenodd;"/>
+			<text x="279.94123323695874" y="79" style="font-family: Body-Bold; font-size: 10px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,158) scale(1,-1)">F  /  2 h</text>
+			<text x="280.38947542445874" y="64" style="font-family: Body; font-size: 8.5px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,128) scale(1,-1)">10 - 12 h</text>
+			<rect x="348.22047244094495" y="54" width="72.0" height="40" style="stroke: rgb(0%,48%,60%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(0%,48%,60%); fill-rule: evenodd;"/>
+			<text x="366.16139040969495" y="79" style="font-family: Body-Bold; font-size: 10px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,158) scale(1,-1)">G  /  3 h</text>
+			<text x="367.44459353469495" y="64" style="font-family: Body; font-size: 8.5px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,128) scale(1,-1)">12 - 15 h</text>
+			<rect x="435.27559055118115" y="54" width="72.0" height="40" style="stroke: rgb(0%,48%,60%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(0%,48%,60%); fill-rule: evenodd;"/>
+			<text x="453.49482883243115" y="79" style="font-family: Body-Bold; font-size: 10px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,158) scale(1,-1)">H  /  2 h</text>
+			<text x="454.49971164493115" y="64" style="font-family: Body; font-size: 8.5px;fill: rgb(100%,100%,100%); stroke:none;" transform="translate(0,128) scale(1,-1)">15 - 17 h</text>
+		</g>
+	</g>
+</svg>

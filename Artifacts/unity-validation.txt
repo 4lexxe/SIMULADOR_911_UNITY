@@ -1,0 +1,2 @@
+33 assertions passed. Three-call play-mode flow and six renders completed.
+Unity WebSocket, PCM decode, subtitles, validated fact event and offline recovery passed against local synthetic Gemini fixture. No real microphone or Google API was used.

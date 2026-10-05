@@ -1,0 +1,12 @@
+2026-10-04 · Unity 6000.6.0f1
+30 exam/voice navigation checks passed.
+42 Jujuy gameplay checks passed.
+17 HUD/evidence checks passed.
+40 lobby checks passed.
+1263 authored-scene/reference checks passed.
+14 Node backend tests passed.
+Windows development build succeeded with 0 errors.
+0 C# errors or warnings in final compile logs.
+Scene, C# sources, new script GUIDs and ProjectSettings match the validated project.
+Physical microphone, real Gemini recognition and human playtest remain unverified.
+Unity SearchDatabase startup diagnostics occurred in some editor runs; test processes and build exited successfully.

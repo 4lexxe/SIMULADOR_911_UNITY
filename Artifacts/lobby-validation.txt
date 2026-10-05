@@ -1,0 +1,1 @@
+40 assertions passed. Main menu, six actions, eight cases, settings, continue, confirmation, result navigation and save parsing verified. Six screenshots at 1080p, 720p and 4:3. No live API, microphone or player-save writes.

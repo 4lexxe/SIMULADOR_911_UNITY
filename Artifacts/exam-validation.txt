@@ -1,0 +1,31 @@
+30 checks passed. Synthetic/local validation; no physical microphone or real Gemini call.
+PASS · Exam clock and references authored before Play.
+PASS · Exam button reachable from Cases.
+PASS · Briefing requires intentional start before the clock runs.
+PASS · Exam starts with a 180-second budget.
+PASS · Exam selects the documented case on Jujuy map.
+PASS · Exam has exactly one playable case.
+PASS · Other guard calls cannot replace exam case.
+PASS · Only exam signal visible.
+PASS · Deadline also expires from menu before answering.
+PASS · Expiry closes menu and shows one final result.
+PASS · Unanswered exam has no invented evidence or prior transcript.
+PASS · A finished exam is not offered as an unfinished guard.
+PASS · Retry creates a fresh exam and resets its budget.
+PASS · Pending dispatch confirmation reached.
+PASS · Deadline never auto-confirms a pending dispatch.
+PASS · A stalled service cannot extend the exam.
+PASS · Recording state is stopped at expiry (synthetic state, no physical capture).
+PASS · Navigation preserves relay IDs but is excluded from scored turns and local tags.
+PASS · Exact navigation command accepted: central mostrar mapa
+PASS · Exact navigation command accepted: Central mostrar llamada.
+PASS · Exact navigation command accepted: central mostrar unidades
+PASS · Exact navigation command accepted: central mostrar escritorio
+PASS · Conversation mentions and partial commands do not trigger navigation.
+PASS · Recognizer punctuation and repeated whitespace preserve exact commands.
+PASS · Text command moves camera without awarding dialogue points.
+PASS · Recognized voice transcript executes navigation through relay path (synthetic input).
+PASS · Normal completion ends the timer early.
+PASS · Complete local dialogue earns the existing content-based 100/100.
+PASS · After exam, Next returns to menu rather than a second case.
+PASS · Normal guard retains eight cases and its initial three signals.

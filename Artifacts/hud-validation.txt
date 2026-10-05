@@ -1,0 +1,1 @@
+17 assertions passed. Unity compiled, local play, evidence rejection, 84-point scoring fixture, full report, retry, guard averages and six rendered screenshots verified. No real model or microphone used.

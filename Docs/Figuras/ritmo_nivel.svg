@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="507.27559055118115" height="75" preserveAspectRatio="xMinYMin meet" viewBox="0 0 507 75" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="507.27559055118115" height="75"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-75)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0.0" y="20" width="122.81889763779529" height="55" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(93%,96%,97%); fill-rule: evenodd;"/>
+			<rect x="0.0" y="71" width="122.81889763779529" height="4" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<text x="9.0" y="51" style="font-family: Body-Bold; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,102) scale(1,-1)">00-15 s</text>
+			<text x="9.0" y="33" style="font-family: Body; font-size: 8.8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,66) scale(1,-1)">Elegir y atender</text>
+			<rect x="126.81889763779529" y="20" width="122.81889763779529" height="55" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(93%,96%,97%); fill-rule: evenodd;"/>
+			<rect x="126.81889763779529" y="71" width="122.81889763779529" height="4" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<text x="135.8188976377953" y="51" style="font-family: Body-Bold; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,102) scale(1,-1)">15-110 s</text>
+			<text x="135.8188976377953" y="33" style="font-family: Body; font-size: 8.8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,66) scale(1,-1)">Escuchar y verificar</text>
+			<rect x="253.63779527559058" y="20" width="122.81889763779526" height="55" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(93%,96%,97%); fill-rule: evenodd;"/>
+			<rect x="253.63779527559058" y="71" width="122.81889763779526" height="4" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<text x="262.6377952755906" y="51" style="font-family: Body-Bold; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,102) scale(1,-1)">110-150 s</text>
+			<text x="262.6377952755906" y="33" style="font-family: Body; font-size: 8.8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,66) scale(1,-1)">Confirmar y enviar</text>
+			<rect x="380.45669291338584" y="20" width="122.81889763779532" height="55" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(93%,96%,97%); fill-rule: evenodd;"/>
+			<rect x="380.45669291338584" y="71" width="122.81889763779532" height="4" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(79%,54%,8%); fill-rule: evenodd;"/>
+			<text x="389.45669291338584" y="51" style="font-family: Body-Bold; font-size: 11px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,102) scale(1,-1)">150-180 s</text>
+			<text x="389.45669291338584" y="33" style="font-family: Body; font-size: 8.8px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,66) scale(1,-1)">Comunicar y cerrar</text>
+			<text x="127.95066148652808" y="3" style="font-family: Body-Bold; font-size: 9.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,6) scale(1,-1)">180 segundos como máximo · cierre anticipado permitido</text>
+		</g>
+	</g>
+</svg>

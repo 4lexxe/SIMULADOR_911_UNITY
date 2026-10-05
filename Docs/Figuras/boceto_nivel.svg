@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="507.27559055118115" height="190" preserveAspectRatio="xMinYMin meet" viewBox="0 0 507 190" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="507.27559055118115" height="190"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-190)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0" y="166" width="507.27559055118115" height="24" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(2%,10%,18%); fill-rule: evenodd;"/>
+			<text x="141.34775621309058" y="174" style="font-family: Body-Bold; font-size: 10px;fill: rgb(20%,81%,93%); stroke:none;" transform="translate(0,348) scale(1,-1)">E · HUD / ESTADO DE ATENCIÓN / EXAMEN 03:00</text>
+			<rect x="0.0" y="62" width="161.75853018372706" height="90" style="stroke: rgb(83%,88%,90%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(93%,96%,97%); fill-rule: evenodd;"/>
+			<text x="10.0" y="133" style="font-family: Body-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,266) scale(1,-1)">A · MAPA DE JUJUY</text>
+			<text x="10.0" y="112" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,224) scale(1,-1)">Señales por localidad</text>
+			<text x="10.0" y="97" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,194) scale(1,-1)">Ficha de la llamada</text>
+			<text x="10.0" y="82" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,164) scale(1,-1)">Seleccionar / atender</text>
+			<path d="M 80.879265,62 L 80.879265,47 Z" style="stroke: rgb(83%,88%,90%); stroke-linecap: butt; stroke-width: 4;"/>
+			<rect x="172.75853018372706" y="62" width="161.75853018372706" height="90" style="stroke: rgb(83%,88%,90%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(93%,96%,97%); fill-rule: evenodd;"/>
+			<text x="182.75853018372706" y="133" style="font-family: Body-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,266) scale(1,-1)">B · LLAMADA</text>
+			<text x="182.75853018372706" y="112" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,224) scale(1,-1)">Transcripción y respuesta</text>
+			<text x="182.75853018372706" y="97" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,194) scale(1,-1)">Cinco datos por confirmar</text>
+			<text x="182.75853018372706" y="82" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,164) scale(1,-1)">Atender / finalizar</text>
+			<path d="M 253.637795,62 L 253.637795,47 Z" style="stroke: rgb(83%,88%,90%); stroke-linecap: butt; stroke-width: 4;"/>
+			<rect x="345.5170603674541" y="62" width="161.75853018372703" height="90" style="stroke: rgb(83%,88%,90%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(93%,96%,97%); fill-rule: evenodd;"/>
+			<text x="355.5170603674541" y="133" style="font-family: Body-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,266) scale(1,-1)">C · UNIDADES</text>
+			<text x="355.5170603674541" y="112" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,224) scale(1,-1)">Tipo y disponibilidad</text>
+			<text x="355.5170603674541" y="97" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,194) scale(1,-1)">Estado y tiempo estimado</text>
+			<text x="355.5170603674541" y="82" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,164) scale(1,-1)">Asignar / confirmar</text>
+			<path d="M 426.396325,62 L 426.396325,47 Z" style="stroke: rgb(83%,88%,90%); stroke-linecap: butt; stroke-width: 4;"/>
+			<path d="M 0,44 L 507.275591,44 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 2;"/>
+			<text x="190.55674058809058" y="25" style="font-family: Body-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,50) scale(1,-1)">D · JUGADOR / PUESTO FIJO</text>
+			<text x="171.39634019746558" y="6" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,12) scale(1,-1)">Teléfono · teclado · micrófono · auriculares</text>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,11 @@
+2026-10-01 · Unity 6000.6.0f1
+42 Jujuy gameplay checks passed.
+40 lobby checks passed.
+17 HUD/evidence checks passed.
+1259 authored-scene/reference checks passed.
+14 Node backend tests passed.
+Windows development build succeeded with 0 errors.
+0 C# errors or warnings in final compile logs.
+Main source, scene, new prefabs and map match the validated project byte for byte.
+Captures inspected: initial queue, all signals, monitor, cases, score, 720p and 4:3.
+Validation used local simulation; no real Gemini session or physical microphone.

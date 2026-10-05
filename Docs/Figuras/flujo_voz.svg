@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg
+  PUBLIC '-//W3C//DTD SVG 1.0//EN'
+  'http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd'>
+<svg width="507.27559055118115" height="100" preserveAspectRatio="xMinYMin meet" viewBox="0 0 507 100" xmlns="http://www.w3.org/2000/svg" version="1.0" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<title>...</title>
+	<desc>...</desc>
+	<clipPath id="clip">
+		<rect x="0" y="0" width="507.27559055118115" height="100"/>
+	</clipPath>
+	<g id="group" transform="scale(1,-1) translate(0,-100)" style="clip-path: url(#clip)">
+		<g transform="">
+			<rect x="0.0" y="29" width="119.31889763779529" height="71" style="stroke: rgb(83%,88%,90%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(93%,96%,97%); fill-rule: evenodd;"/>
+			<text x="10.0" y="81" style="font-family: Body-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,162) scale(1,-1)">JUGADOR</text>
+			<text x="10.0" y="60" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,120) scale(1,-1)">Micrófono</text>
+			<text x="10.0" y="45" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,90) scale(1,-1)">Espacio sostenido</text>
+			<path d="M 119.318898,62 L 128.318898,62 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<polygon points="128.3189 62, 123.3189 65, 123.3189 59" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<rect x="129.3188976377953" y="29" width="119.31889763779529" height="71" style="stroke: rgb(83%,88%,90%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(93%,96%,97%); fill-rule: evenodd;"/>
+			<text x="139.3188976377953" y="81" style="font-family: Body-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,162) scale(1,-1)">UNITY</text>
+			<text x="139.3188976377953" y="60" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,120) scale(1,-1)">VoiceManager</text>
+			<text x="139.3188976377953" y="45" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,90) scale(1,-1)">Transcripción</text>
+			<path d="M 248.637795,62 L 257.637795,62 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<polygon points="257.6378 62, 252.6378 65, 252.6378 59" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<rect x="258.6377952755906" y="29" width="119.31889763779526" height="71" style="stroke: rgb(83%,88%,90%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(93%,96%,97%); fill-rule: evenodd;"/>
+			<text x="268.6377952755906" y="81" style="font-family: Body-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,162) scale(1,-1)">RELAY LOCAL</text>
+			<text x="268.6377952755906" y="60" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,120) scale(1,-1)">Node / WebSocket</text>
+			<text x="268.6377952755906" y="45" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,90) scale(1,-1)">Valida eventos</text>
+			<path d="M 377.956693,62 L 386.956693,62 Z" style="stroke: rgb(0%,0%,0%); stroke-linecap: butt; stroke-width: 1.4;"/>
+			<polygon points="386.9567 62, 381.9567 65, 381.9567 59" style="stroke: none; stroke-linecap: butt; stroke-width: 1; fill: rgb(0%,0%,0%); fill-rule: evenodd;"/>
+			<rect x="387.95669291338584" y="29" width="119.31889763779532" height="71" style="stroke: rgb(83%,88%,90%); stroke-linecap: butt; stroke-width: 0.7; fill: rgb(93%,96%,97%); fill-rule: evenodd;"/>
+			<text x="397.95669291338584" y="81" style="font-family: Body-Bold; font-size: 10px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,162) scale(1,-1)">GEMINI LIVE</text>
+			<text x="397.95669291338584" y="60" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,120) scale(1,-1)">Voz del llamante</text>
+			<text x="397.95669291338584" y="45" style="font-family: Body; font-size: 9px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,90) scale(1,-1)">Texto y propuestas</text>
+			<text x="132.58701402559058" y="10" style="font-family: Body-Bold; font-size: 9.5px;fill: rgb(0%,0%,0%); stroke:none;" transform="translate(0,20) scale(1,-1)">Retorno: audio + texto + eventos; Unity valida el estado.</text>
+		</g>
+	</g>
+</svg>

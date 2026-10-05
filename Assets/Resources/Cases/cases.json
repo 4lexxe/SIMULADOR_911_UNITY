@@ -1,0 +1,797 @@
+{
+  "cases": [
+    {
+      "id": "CASE_001",
+      "title": "Una caída en el club",
+      "callerName": "Lucía",
+      "personality": "Nerviosa, pero coopera cuando la escuchan. Español argentino, 19 años.",
+      "opening": "¡Ayuda! Mi hermano se cayó. Estoy con él y no sé qué hacer.",
+      "requiredUnitType": 0,
+      "mapNormalizedCoord": {
+        "x": 0.5613299836734686,
+        "y": 0.1534839788059702
+      },
+      "facts": [
+        {
+          "id": "location",
+          "label": "Ubicación",
+          "value": "Club Deportivo Norte · San Martín 240 · San Salvador de Jujuy",
+          "response": "Estamos en el Club Deportivo Norte, San Martín 240, en San Salvador de Jujuy.",
+          "keywords": [
+            "donde",
+            "direccion",
+            "ubicacion",
+            "lugar",
+            "calle",
+            "encuentran",
+            "esquina",
+            "referencia",
+            "localidad"
+          ],
+          "points": 10
+        },
+        {
+          "id": "incident",
+          "label": "Incidente",
+          "value": "Caída durante un juego",
+          "response": "Estábamos jugando y Martín se cayó. Se golpeó al caer.",
+          "keywords": [
+            "ocurrio",
+            "paso",
+            "sucedio",
+            "cayo",
+            "accidente"
+          ],
+          "points": 8
+        },
+        {
+          "id": "people",
+          "label": "Personas",
+          "value": "1 persona afectada",
+          "response": "Solo mi hermano Martín. Yo estoy bien y no hay otra persona afectada.",
+          "keywords": [
+            "cuantas",
+            "cuantos",
+            "personas",
+            "afectados",
+            "alguien mas",
+            "otra persona",
+            "victimas"
+          ],
+          "points": 8
+        },
+        {
+          "id": "condition",
+          "label": "Estado",
+          "value": "Consciente; responde al hablarle",
+          "response": "Sí, está despierto. Me responde cuando le hablo.",
+          "keywords": [
+            "consciente",
+            "despierto",
+            "responde",
+            "estado",
+            "como esta"
+          ],
+          "points": 8
+        },
+        {
+          "id": "risks",
+          "label": "Riesgos",
+          "value": "Sin peligros adicionales observados",
+          "response": "No veo fuego, cables ni otro peligro alrededor. Estamos en la cancha.",
+          "keywords": [
+            "riesgo",
+            "peligro",
+            "fuego",
+            "cables",
+            "seguro"
+          ],
+          "points": 6
+        }
+      ],
+      "locality": "San Salvador de Jujuy",
+      "region": "Valles",
+      "arrivalSeconds": 0,
+      "incomingSummary": "Un familiar pide ayuda",
+      "latitude": -24.185828671,
+      "longitude": -65.29948308
+    },
+    {
+      "id": "CASE_002",
+      "title": "Humo en el taller",
+      "callerName": "Diego",
+      "personality": "Muy nervioso. Habla apurado y necesita preguntas claras de a una. No inventa hechos.",
+      "opening": "¡Hay humo en el taller! Salimos todos, pero sigue saliendo por la puerta.",
+      "requiredUnitType": 1,
+      "mapNormalizedCoord": {
+        "x": 0.6494252924489778,
+        "y": 0.13978260328358239
+      },
+      "facts": [
+        {
+          "id": "location",
+          "label": "Ubicación",
+          "value": "Taller Rueda Sur · Belgrano 815 · San Pedro de Jujuy",
+          "response": "En el taller Rueda Sur, Belgrano 815, en San Pedro de Jujuy. Tiene un portón azul.",
+          "keywords": [
+            "donde",
+            "direccion",
+            "ubicacion",
+            "lugar",
+            "calle",
+            "encuentran",
+            "esquina",
+            "referencia",
+            "localidad"
+          ],
+          "points": 10
+        },
+        {
+          "id": "incident",
+          "label": "Incidente",
+          "value": "Humo y fuego observado en el taller",
+          "response": "Vi una llama junto a una mesa de trabajo y empezó a salir humo. No sé qué lo causó.",
+          "keywords": [
+            "paso",
+            "ocurrio",
+            "sucedio",
+            "viste",
+            "humo",
+            "incidente"
+          ],
+          "points": 8
+        },
+        {
+          "id": "people",
+          "label": "Personas",
+          "value": "3 personas; todas afuera",
+          "response": "Éramos tres adentro. Los tres estamos ahora en la vereda.",
+          "keywords": [
+            "cuantas",
+            "cuantos",
+            "personas",
+            "alguien",
+            "todos",
+            "victimas"
+          ],
+          "points": 8
+        },
+        {
+          "id": "condition",
+          "label": "Estado",
+          "value": "Las 3 personas responden; sin lesiones reportadas",
+          "response": "Todos podemos hablar. Ninguno dice estar lastimado.",
+          "keywords": [
+            "estado",
+            "como estan",
+            "heridos",
+            "lastimado",
+            "responden",
+            "consciente"
+          ],
+          "points": 8
+        },
+        {
+          "id": "risks",
+          "label": "Riesgos",
+          "value": "Humo persistente; recipientes de pintura dentro",
+          "response": "Todavía sale humo. Dentro hay recipientes de pintura, los vi esta mañana.",
+          "keywords": [
+            "riesgo",
+            "peligro",
+            "pintura",
+            "combustible",
+            "materiales"
+          ],
+          "points": 6
+        }
+      ],
+      "locality": "San Pedro",
+      "region": "Yungas",
+      "arrivalSeconds": 22,
+      "incomingSummary": "Llamada desde un taller",
+      "latitude": -24.231728279,
+      "longitude": -64.867816067
+    },
+    {
+      "id": "CASE_003",
+      "title": "Lo que escuché, lo que vi",
+      "callerName": "Elena",
+      "personality": "Confunde una suposición con un hecho. Primero supone un choque; si preguntan cómo lo sabe, admite que solo escuchó un ruido. Luego observa un auto detenido. Español argentino.",
+      "opening": "Escuché un golpe en la esquina. Creo que chocaron dos autos, pero no estoy segura.",
+      "requiredUnitType": 2,
+      "mapNormalizedCoord": {
+        "x": 0.5421687906122449,
+        "y": 0.33525517641791064
+      },
+      "facts": [
+        {
+          "id": "location",
+          "label": "Ubicación",
+          "value": "Mitre y Rivadavia · Tilcara",
+          "response": "En Mitre y Rivadavia, en Tilcara, frente al kiosco.",
+          "keywords": [
+            "donde",
+            "direccion",
+            "ubicacion",
+            "lugar",
+            "calle",
+            "encuentran",
+            "esquina",
+            "referencia",
+            "localidad"
+          ],
+          "points": 10
+        },
+        {
+          "id": "incident",
+          "label": "Incidente",
+          "value": "Posible choque de 2 autos · sin verificar",
+          "response": "Creo que chocaron dos autos. Escuché un ruido fuerte desde casa.",
+          "uncertain": true,
+          "verifiedValue": "1 auto detenido; choque no confirmado",
+          "verificationResponse": "No vi un choque, solo escuché el ruido. Ahora veo un solo auto detenido. Lo de los dos autos fue una suposición.",
+          "keywords": [
+            "paso",
+            "ocurrio",
+            "sucedio",
+            "choque",
+            "autos",
+            "ruido"
+          ],
+          "points": 8
+        },
+        {
+          "id": "people",
+          "label": "Personas",
+          "value": "1 persona visible junto al auto",
+          "response": "Veo una persona junto al auto. No puedo confirmar si hay alguien más dentro.",
+          "keywords": [
+            "cuantas",
+            "cuantos",
+            "personas",
+            "alguien",
+            "victimas"
+          ],
+          "points": 8
+        },
+        {
+          "id": "condition",
+          "label": "Estado",
+          "value": "La persona visible está de pie; lesiones desconocidas",
+          "response": "Está de pie y hablando. Desde aquí no puedo saber si tiene lesiones.",
+          "keywords": [
+            "estado",
+            "como esta",
+            "herido",
+            "responde",
+            "consciente",
+            "lastimado"
+          ],
+          "points": 8
+        },
+        {
+          "id": "risks",
+          "label": "Riesgos",
+          "value": "Auto obstruye parte de la calle",
+          "response": "El auto ocupa parte de la calle y los demás vehículos lo esquivan.",
+          "keywords": [
+            "riesgo",
+            "peligro",
+            "transito",
+            "calzada",
+            "obstruye",
+            "fuego"
+          ],
+          "points": 6
+        }
+      ],
+      "locality": "Tilcara",
+      "region": "Quebrada",
+      "arrivalSeconds": 0,
+      "incomingSummary": "Un ruido en la calle",
+      "latitude": -23.576895159,
+      "longitude": -65.393372926
+    },
+    {
+      "id": "CASE_004",
+      "title": "Una espera difícil",
+      "callerName": "Rosa",
+      "personality": "Persona nerviosa pero colaboradora. Habla español argentino. Solo informa lo que observó y no inventa datos.",
+      "opening": "Mi papá se descompuso mientras esperábamos. Está despierto, pero no puede levantarse.",
+      "requiredUnitType": 0,
+      "locality": "La Quiaca",
+      "region": "Puna",
+      "arrivalSeconds": 0,
+      "incomingSummary": "Una espera difícil",
+      "facts": [
+        {
+          "id": "location",
+          "label": "Ubicación",
+          "value": "Refugio de pasajeros del acceso sur · La Quiaca",
+          "response": "En La Quiaca, en el refugio de pasajeros del acceso sur. Hay un banco verde y un cartel de parada.",
+          "keywords": [
+            "donde",
+            "direccion",
+            "ubicacion",
+            "lugar",
+            "calle",
+            "encuentran",
+            "esquina",
+            "referencia",
+            "localidad"
+          ],
+          "points": 10
+        },
+        {
+          "id": "incident",
+          "label": "Incidente",
+          "value": "Un adulto se descompensó mientras esperaba",
+          "response": "Estaba sentado esperando y dijo que se sentía mal. No se cayó ni se golpeó.",
+          "keywords": [
+            "ocurrio",
+            "paso",
+            "sucedio",
+            "cayo",
+            "accidente"
+          ],
+          "points": 8
+        },
+        {
+          "id": "people",
+          "label": "Personas",
+          "value": "1 persona afectada; acompañada por su hija",
+          "response": "Solo mi papá. Yo estoy con él y estoy bien.",
+          "keywords": [
+            "cuantas",
+            "cuantos",
+            "personas",
+            "afectados",
+            "alguien mas",
+            "otra persona",
+            "victimas"
+          ],
+          "points": 8
+        },
+        {
+          "id": "condition",
+          "label": "Estado",
+          "value": "Consciente y responde; no logra ponerse de pie",
+          "response": "Está despierto y me responde, pero dice que no puede levantarse.",
+          "keywords": [
+            "estado",
+            "como esta",
+            "como estan",
+            "despierto",
+            "consciente",
+            "responde",
+            "herido",
+            "lastimado",
+            "respira"
+          ],
+          "points": 8
+        },
+        {
+          "id": "risks",
+          "label": "Riesgos",
+          "value": "Frío; ambos fuera de la calzada",
+          "response": "Hace frío, pero estamos dentro del refugio, lejos de los autos.",
+          "keywords": [
+            "riesgo",
+            "peligro",
+            "fuego",
+            "cables",
+            "seguro"
+          ],
+          "points": 6
+        }
+      ],
+      "latitude": -22.104451782,
+      "longitude": -65.596373475,
+      "mapNormalizedCoord": {
+        "x": 0.5007401071428581,
+        "y": 0.7747905128358207
+      }
+    },
+    {
+      "id": "CASE_005",
+      "title": "Humo junto al depósito",
+      "callerName": "Tomás",
+      "personality": "Persona nerviosa pero colaboradora. Habla español argentino. Solo informa lo que observó y no inventa datos.",
+      "opening": "Sale humo de unos cajones afuera del depósito. Estamos del otro lado de la calle.",
+      "requiredUnitType": 1,
+      "locality": "Abra Pampa",
+      "region": "Puna",
+      "arrivalSeconds": 40,
+      "incomingSummary": "Humo junto al depósito",
+      "facts": [
+        {
+          "id": "location",
+          "label": "Ubicación",
+          "value": "Depósito de mercadería del acceso este · Abra Pampa",
+          "response": "Estamos en Abra Pampa, en el depósito del acceso este. El frente tiene un portón amarillo.",
+          "keywords": [
+            "donde",
+            "direccion",
+            "ubicacion",
+            "lugar",
+            "calle",
+            "encuentran",
+            "esquina",
+            "referencia",
+            "localidad"
+          ],
+          "points": 10
+        },
+        {
+          "id": "incident",
+          "label": "Incidente",
+          "value": "Cajones en llamas en un patio exterior",
+          "response": "Veo fuego en una pila de cajones en el patio. No sé cómo empezó.",
+          "keywords": [
+            "ocurrio",
+            "paso",
+            "sucedio",
+            "cayo",
+            "accidente"
+          ],
+          "points": 8
+        },
+        {
+          "id": "people",
+          "label": "Personas",
+          "value": "2 personas; ambas fuera del predio",
+          "response": "Somos dos trabajadores y los dos salimos. No quedó nadie dentro.",
+          "keywords": [
+            "cuantas",
+            "cuantos",
+            "personas",
+            "afectados",
+            "alguien mas",
+            "otra persona",
+            "victimas"
+          ],
+          "points": 8
+        },
+        {
+          "id": "condition",
+          "label": "Estado",
+          "value": "Ambos conscientes; sin lesiones reportadas",
+          "response": "Los dos estamos bien y podemos hablar. No nos quemamos.",
+          "keywords": [
+            "estado",
+            "como esta",
+            "como estan",
+            "despierto",
+            "consciente",
+            "responde",
+            "herido",
+            "lastimado",
+            "respira"
+          ],
+          "points": 8
+        },
+        {
+          "id": "risks",
+          "label": "Riesgos",
+          "value": "Viento desplaza el humo hacia una construcción",
+          "response": "El viento lleva el humo hacia el techo del galpón. Nosotros estamos lejos.",
+          "keywords": [
+            "riesgo",
+            "peligro",
+            "fuego",
+            "cables",
+            "seguro"
+          ],
+          "points": 6
+        }
+      ],
+      "latitude": -22.722692271,
+      "longitude": -65.697039178,
+      "mapNormalizedCoord": {
+        "x": 0.48019608612244913,
+        "y": 0.5902411131343286
+      }
+    },
+    {
+      "id": "CASE_006",
+      "title": "Un paso bloqueado",
+      "callerName": "Javier",
+      "personality": "Persona nerviosa pero colaboradora. Habla español argentino. Solo informa lo que observó y no inventa datos.",
+      "opening": "Un vehículo quedó cruzado. Los autos se están metiendo por la vereda para pasar.",
+      "requiredUnitType": 2,
+      "locality": "Humahuaca",
+      "region": "Quebrada",
+      "arrivalSeconds": 58,
+      "incomingSummary": "Un paso bloqueado",
+      "facts": [
+        {
+          "id": "location",
+          "label": "Ubicación",
+          "value": "Cruce junto al puente de acceso · Humahuaca",
+          "response": "En Humahuaca, en el cruce junto al puente de acceso. Hay un puesto cerrado de artesanías.",
+          "keywords": [
+            "donde",
+            "direccion",
+            "ubicacion",
+            "lugar",
+            "calle",
+            "encuentran",
+            "esquina",
+            "referencia",
+            "localidad"
+          ],
+          "points": 10
+        },
+        {
+          "id": "incident",
+          "label": "Incidente",
+          "value": "Vehículo detenido obstruye el cruce",
+          "response": "Veo una camioneta cruzada. No vi un choque, parece que se detuvo y no arranca.",
+          "keywords": [
+            "ocurrio",
+            "paso",
+            "sucedio",
+            "cayo",
+            "accidente"
+          ],
+          "points": 8
+        },
+        {
+          "id": "people",
+          "label": "Personas",
+          "value": "1 conductor visible; peatones en las cercanías",
+          "response": "Veo al conductor junto a la camioneta y personas caminando por la zona.",
+          "keywords": [
+            "cuantas",
+            "cuantos",
+            "personas",
+            "afectados",
+            "alguien mas",
+            "otra persona",
+            "victimas"
+          ],
+          "points": 8
+        },
+        {
+          "id": "condition",
+          "label": "Estado",
+          "value": "Conductor de pie y hablando; sin lesiones observadas",
+          "response": "El conductor está de pie, hablando por teléfono. No veo a nadie lastimado.",
+          "keywords": [
+            "estado",
+            "como esta",
+            "como estan",
+            "despierto",
+            "consciente",
+            "responde",
+            "herido",
+            "lastimado",
+            "respira"
+          ],
+          "points": 8
+        },
+        {
+          "id": "risks",
+          "label": "Riesgos",
+          "value": "Otros vehículos suben a la vereda ocupada por peatones",
+          "response": "Hay autos que suben a la vereda para esquivarlo y personas caminando ahí.",
+          "keywords": [
+            "riesgo",
+            "peligro",
+            "fuego",
+            "cables",
+            "seguro"
+          ],
+          "points": 6
+        }
+      ],
+      "latitude": -23.205929513,
+      "longitude": -65.347453577,
+      "mapNormalizedCoord": {
+        "x": 0.551540086326531,
+        "y": 0.44599119014925354
+      }
+    },
+    {
+      "id": "CASE_007",
+      "title": "Una caída en el paseo",
+      "callerName": "Inés",
+      "personality": "Persona nerviosa pero colaboradora. Habla español argentino. Solo informa lo que observó y no inventa datos.",
+      "opening": "Mi amiga tropezó y ahora le duele mucho el tobillo. No puede seguir caminando.",
+      "requiredUnitType": 0,
+      "locality": "Purmamarca",
+      "region": "Quebrada",
+      "arrivalSeconds": 76,
+      "incomingSummary": "Una caída en el paseo",
+      "facts": [
+        {
+          "id": "location",
+          "label": "Ubicación",
+          "value": "Entrada del paseo peatonal · Purmamarca",
+          "response": "En Purmamarca, en la entrada del paseo peatonal. Estamos junto al cartel de bienvenida.",
+          "keywords": [
+            "donde",
+            "direccion",
+            "ubicacion",
+            "lugar",
+            "calle",
+            "encuentran",
+            "esquina",
+            "referencia",
+            "localidad"
+          ],
+          "points": 10
+        },
+        {
+          "id": "incident",
+          "label": "Incidente",
+          "value": "Caída al mismo nivel durante una caminata",
+          "response": "Tropezó con una piedra y cayó. No cayó desde altura.",
+          "keywords": [
+            "ocurrio",
+            "paso",
+            "sucedio",
+            "cayo",
+            "accidente"
+          ],
+          "points": 8
+        },
+        {
+          "id": "people",
+          "label": "Personas",
+          "value": "1 persona afectada; acompañada",
+          "response": "Solo mi amiga está lastimada. Yo la acompaño.",
+          "keywords": [
+            "cuantas",
+            "cuantos",
+            "personas",
+            "afectados",
+            "alguien mas",
+            "otra persona",
+            "victimas"
+          ],
+          "points": 8
+        },
+        {
+          "id": "condition",
+          "label": "Estado",
+          "value": "Consciente; dolor de tobillo y dificultad para caminar",
+          "response": "Está despierta, me habla y le duele el tobillo. No puede apoyar el pie.",
+          "keywords": [
+            "estado",
+            "como esta",
+            "como estan",
+            "despierto",
+            "consciente",
+            "responde",
+            "herido",
+            "lastimado",
+            "respira"
+          ],
+          "points": 8
+        },
+        {
+          "id": "risks",
+          "label": "Riesgos",
+          "value": "Suelo irregular; lugar alejado del tránsito",
+          "response": "Hay piedras sueltas en el suelo, pero estamos lejos de los vehículos.",
+          "keywords": [
+            "riesgo",
+            "peligro",
+            "fuego",
+            "cables",
+            "seguro"
+          ],
+          "points": 6
+        }
+      ],
+      "latitude": -23.746594489,
+      "longitude": -65.499200142,
+      "mapNormalizedCoord": {
+        "x": 0.520571399591835,
+        "y": 0.2845986600000001
+      }
+    },
+    {
+      "id": "CASE_008",
+      "title": "Una cocina con humo",
+      "callerName": "Nora",
+      "personality": "Persona nerviosa pero colaboradora. Habla español argentino. Solo informa lo que observó y no inventa datos.",
+      "opening": "Vimos fuego en la cocina del comedor. Ya salimos al patio, pero todavía sale humo.",
+      "requiredUnitType": 1,
+      "locality": "Libertador General San Martín",
+      "region": "Yungas",
+      "arrivalSeconds": 94,
+      "incomingSummary": "Una cocina con humo",
+      "facts": [
+        {
+          "id": "location",
+          "label": "Ubicación",
+          "value": "Comedor vecinal del acceso oeste · Libertador General San Martín",
+          "response": "En Libertador General San Martín, en el comedor vecinal del acceso oeste. Tiene una pared verde.",
+          "keywords": [
+            "donde",
+            "direccion",
+            "ubicacion",
+            "lugar",
+            "calle",
+            "encuentran",
+            "esquina",
+            "referencia",
+            "localidad"
+          ],
+          "points": 10
+        },
+        {
+          "id": "incident",
+          "label": "Incidente",
+          "value": "Fuego y humo observados en una cocina",
+          "response": "Vi llamas en la zona de la cocina y después humo. No sé qué lo causó.",
+          "keywords": [
+            "ocurrio",
+            "paso",
+            "sucedio",
+            "cayo",
+            "accidente"
+          ],
+          "points": 8
+        },
+        {
+          "id": "people",
+          "label": "Personas",
+          "value": "4 personas; todas fuera del edificio",
+          "response": "Somos cuatro y estamos todos afuera, en el patio.",
+          "keywords": [
+            "cuantas",
+            "cuantos",
+            "personas",
+            "afectados",
+            "alguien mas",
+            "otra persona",
+            "victimas"
+          ],
+          "points": 8
+        },
+        {
+          "id": "condition",
+          "label": "Estado",
+          "value": "Todos conscientes; una persona presenta tos",
+          "response": "Los cuatro podemos hablar. Una compañera está tosiendo.",
+          "keywords": [
+            "estado",
+            "como esta",
+            "como estan",
+            "despierto",
+            "consciente",
+            "responde",
+            "herido",
+            "lastimado",
+            "respira"
+          ],
+          "points": 8
+        },
+        {
+          "id": "risks",
+          "label": "Riesgos",
+          "value": "Humo persistente; garrafa en el interior",
+          "response": "Sigue saliendo humo. Hay una garrafa en la cocina, la vi antes de salir.",
+          "keywords": [
+            "riesgo",
+            "peligro",
+            "fuego",
+            "cables",
+            "seguro"
+          ],
+          "points": 6
+        }
+      ],
+      "latitude": -23.815214953,
+      "longitude": -64.792855684,
+      "mapNormalizedCoord": {
+        "x": 0.6647233297959174,
+        "y": 0.2641149394029845
+      }
+    }
+  ]
+}

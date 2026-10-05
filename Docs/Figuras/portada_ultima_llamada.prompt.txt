@@ -1,0 +1,19 @@
+Tool: built-in image_gen
+Use: illustrated academic cover; conceptual artwork, not gameplay screenshot.
+Prompt:
+Use case: stylized-concept.
+Create a finished portrait academic game cover illustration, aspect ratio approximately 2:3, high resolution, premium illustrated game poster suitable as a full-page university GDD cover.
+Subject: ÚLTIMA LLAMADA, a serious game about emergency dispatch in Jujuy, Argentina. A richly illustrated modern emergency coordination room, a central operator desk with exactly three monitors, keyboard, telephone, gooseneck microphone and headset. Left screen shows a stylized map of Jujuy province with red incoming call markers, middle screen a call waveform, right screen simple ambulance, fire truck and police icons. Large wall display of Jujuy behind the desk. Subtle mountain silhouettes visible beyond the control room windows evoke the province. No fantasy creatures, no battle, no weapons, no medical procedures.
+Style: attractive hand-painted game key art with fine ink outlines, watercolor/gouache texture and carefully shaded architectural details, inspired by an ornate illustrated university assignment cover. More illustrative than photorealistic. Navy and teal architecture, cyan monitor light, warm ivory typographic panels, restrained red emergency highlights. Strong coherent framing integrated into the architecture, generous safe margins, refined visual hierarchy.
+Composition: portrait cover. At top a clean ivory university masthead with elegant dark blue type, no invented university seal or logo. Beneath masthead the large game title in two lines, highly legible, white and cyan. Main middle 55% is a dramatic eye-level three-quarter illustrated view of the dispatch desk and control room, inviting and professional. Lower 25% is an integrated ivory plaque with large dark blue course name, group and student information, all clear and fully visible. Small tasteful headphones emblem near the game title.
+Render ONLY the following exact Spanish cover text, with correct accents and spelling, no other text or fictional names:
+Top masthead: "FACULTAD DE INGENIERÍA"
+Second masthead line: "UNIVERSIDAD NACIONAL DE JUJUY"
+Main game title: "ÚLTIMA LLAMADA"
+Small game subtitle: "CENTRAL DE EMERGENCIAS · JUJUY"
+Lower academic plaque, course name across two lines: "DISEÑO DE VIDEOJUEGOS II"
+Below course: "PRIMER EXAMEN PRÁCTICO"
+Group name, prominent: "CHANGO DEV"
+Student name, clear and not tiny: "Alex Gabriel Calatayud"
+Small bottom year: "2026"
+Do not include Vibe Coding, do not include names from any example cover. Ensure all text is readable, correctly accented, properly centered and never cropped. No watermarks. Final result should feel like an illustrated cover specifically designed for this game rather than a generic technology brochure.

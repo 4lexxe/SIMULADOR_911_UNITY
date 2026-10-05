@@ -1,0 +1,1 @@
+42 checks passed: authored scene, geographic selection, dynamic arrivals, active-call isolation, new-case dialogue, exact scoring animation, retry, out-of-order saves, migration, full eight-call guard and continuation. No microphone, remote model, player save or preference writes.

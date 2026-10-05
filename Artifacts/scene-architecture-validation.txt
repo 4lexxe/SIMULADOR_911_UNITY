@@ -1,0 +1,1 @@
+1263 checks passed. Saved hierarchy, materials, sprites, prefab instances, Inspector edits, separate audio sources, authored controls, reusable panels and dynamic history verified.
